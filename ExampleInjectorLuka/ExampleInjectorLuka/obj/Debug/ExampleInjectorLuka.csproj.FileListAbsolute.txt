@@ -1,0 +1,7 @@
+D:\ExampleInjectorLuka\ExampleInjectorLuka\bin\Debug\ExampleInjectorLuka.exe.config
+D:\ExampleInjectorLuka\ExampleInjectorLuka\bin\Debug\ExampleInjectorLuka.exe
+D:\ExampleInjectorLuka\ExampleInjectorLuka\bin\Debug\ExampleInjectorLuka.pdb
+D:\ExampleInjectorLuka\ExampleInjectorLuka\obj\Debug\ExampleInjectorLuka.csprojAssemblyReference.cache
+D:\ExampleInjectorLuka\ExampleInjectorLuka\obj\Debug\ExampleInjectorLuka.csproj.CoreCompileInputs.cache
+D:\ExampleInjectorLuka\ExampleInjectorLuka\obj\Debug\ExampleInjectorLuka.exe
+D:\ExampleInjectorLuka\ExampleInjectorLuka\obj\Debug\ExampleInjectorLuka.pdb
